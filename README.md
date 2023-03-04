@@ -36,11 +36,11 @@
 Подробное описание выявленных уязвимостей можно найти по идентификаторам BID, CVE
 Прилагаю три ссылки для примера:
 
-[ORACLE VM SERVER 3.1/3.2](https://www.imperialviolet.org/2014/10/14/poodle.html)
+[https://www.imperialviolet.org/2014/10/14/poodle.html](https://www.openssl.org/~bodo/ssl-poodle.pdf)
 
-[VSFTPD 2.3.4](https://vuldb.com/ru/?id.146452)
+[https://vuldb.com/ru/?id.146452](https://weakdh.org)
 
-[SSLV3 POODLE](https://vuldb.com/ru/?id.92602)
+[https://vuldb.com/ru/?id.92602](https://www.ietf.org/rfc/rfc2246.txt)
 
 ---
 

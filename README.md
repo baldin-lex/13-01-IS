@@ -36,7 +36,7 @@
 Подробное описание выявленных уязвимостей можно найти по идентификаторам BID, CVE
 Прилагаю три ссылки для примера:
 
-[ORACLE VM SERVER 3.1/3.2](https://vuldb.com/ru/?id.74941)
+[ORACLE VM SERVER 3.1/3.2](https://www.imperialviolet.org/2014/10/14/poodle.html)
 
 [VSFTPD 2.3.4](https://vuldb.com/ru/?id.146452)
 
